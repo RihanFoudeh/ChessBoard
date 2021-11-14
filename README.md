@@ -17,3 +17,8 @@
 * queens on same diagonal should be “under attack”
 * queens with any other coordinates should NOT be “under attack”
 
+## Table Of Content
+
+|  | Links                                                     |
+| -------- | --------------------------------------------------------- |
+| Lab: 11 - Numpy  | [Code](https://github.com/RihanFoudeh/ChessBoard/blob/main/chess_board.ipynb) |
